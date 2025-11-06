@@ -8,7 +8,7 @@ import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import './app.css';
+import './App.css';
 
 // --- COMPONENTE PRINCIPAL: App ---
 // Monta todas as seções
